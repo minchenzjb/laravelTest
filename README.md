@@ -18,7 +18,11 @@ It uses
   .Eloquent ORM
   
   .Mysql Database
-  
+
+## install composer dependency
+
+composer install  
+
 ## database config
   ###.env file 
   
